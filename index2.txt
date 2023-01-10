@@ -1,3 +1,3 @@
 hello World
 git commit ammend
-git merge1
+feature
